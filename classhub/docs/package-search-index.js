@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.zombrex.classhub.controller"},{"l":"com.zombrex.classhub.model"},{"l":"com.zombrex.classhub.repository"},{"l":"com.zombrex.classhub.service"}];updateSearchResults();

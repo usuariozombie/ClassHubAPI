@@ -1,0 +1,5 @@
+com.zombrex.classhub
+com.zombrex.classhub.controller
+com.zombrex.classhub.model
+com.zombrex.classhub.repository
+com.zombrex.classhub.service
